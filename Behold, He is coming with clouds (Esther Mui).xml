@@ -1,0 +1,40 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2019-07-27T12:12:33">
+  <properties>
+    <titles>
+      <title>Behold, He is coming with clouds</title>
+    </titles>
+    <comments>
+      <comment>Revelation1:5-8</comment>
+    </comments>
+    <copyright>Esther Mui</copyright>
+    <verseOrder>v1 c1 b1 v2 b2 b2 b3</verseOrder>
+    <authors>
+      <author>Esther Mui</author>
+    </authors>
+    <themes>
+      <theme>jesus-return</theme>
+      <theme>Revelation</theme>
+    </themes>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>To him that loved us, and washed us <br/>From our sins in his own blood<br/>And has made us kings and priests<br/>To His God and Father<br/>To Him be glory and dominion<br/>For ever and ever. Amen.<br/>(Amen. Amen)</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Behold, he cometh with clouds<br/>And every eye shall see him<br/>Even they who pierced him<br/>And all the tribes of the earth<br/>Will mourn because of Him</lines>
+    </verse>
+    <verse name="b1">
+      <lines>Even so, Amen<br/>Even so, Amen<br/>Even so, Amen</lines>
+    </verse>
+    <verse name="v2">
+      <lines>I am  the Alpha and the Omega<br/>The beginning and the end<br/>I am  the Alpha and the Omega<br/>The beginning and the end<br/>Says the Lord,</lines>
+    </verse>
+    <verse name="b2">
+      <lines>Who is and<br/>Who was and<br/>Who is to come<br/>Who is and<br/>Who was and<br/>Who is to come<br/>The Almighty</lines>
+    </verse>
+    <verse name="b3">
+      <lines>The Almighty<br/>The Almighty<br/>The Almighty<br/><br/>Amen</lines>
+    </verse>
+  </lyrics>
+</song>
