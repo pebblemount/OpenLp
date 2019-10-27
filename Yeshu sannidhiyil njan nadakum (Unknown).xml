@@ -1,0 +1,17 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2019-10-27T08:24:24">
+  <properties>
+    <titles>
+      <title>Yeshu sannidhiyil njan nadakum</title>
+    </titles>
+    <verseOrder>v1</verseOrder>
+    <authors>
+      <author>Unknown</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Yeshu sannidhiyil njan nadakum<br/>Daiva kripayil njan aashrayikyum (2)<br/>Avan vazhigalil njan nadakum<br/>Daiva kripayil njan aashrayikyum(2)<br/>Hallelujah paadidum njan<br/>Daiva kripayil njan aashrayikyum (2)</lines>
+    </verse>
+  </lyrics>
+</song>

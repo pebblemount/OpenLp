@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2019-10-27T08:44:26">
+  <properties>
+    <titles>
+      <title>En Prema geethamam</title>
+      <title>Aaradhana Thulyam Chollan</title>
+    </titles>
+    <verseOrder>v1 c1 v2 c1 v3 c1</verseOrder>
+    <authors>
+      <author>Chikku Kuriakose</author>
+      <author>Jonson Mathew</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>En premageethamam<br/>(You are my love song)<br/>En Yeshunada nee<br/>(my Jesus)<br/>En jeevanekalum nee<br/>(Even more than my life)<br/>Valiyathaneniku<br/>(you are bigger)</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Aaradhana… aaradhana…<br/>(I worship you)<br/>Aaradhana… aaradhana…<br/>(I worship you)</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Thullyam chollan aarumille<br/>(There is none to compare)<br/>Angepole Yeshuve<br/>(... to you Jesus)<br/>Jeevane swanthame ange marvil<br/>( You are my life, you are my own, In your arms)<br/>Charunnu njan<br/>(I take my rest)</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Angeppole snehichedaan<br/>(To love like you do)<br/>Aavathilla aarkume (2)<br/>(That no one can do)<br/>Snehame premame ange maarvil<br/>(You are Agape, you are Love, in your arms)<br/>Charunnu njan (2)<br/>(I take my rest)</lines>
+    </verse>
+  </lyrics>
+</song>

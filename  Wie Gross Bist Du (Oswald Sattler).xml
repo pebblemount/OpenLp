@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2019-10-27T08:33:43">
+  <properties>
+    <titles>
+      <title> Wie Gross Bist Du</title>
+      <title>How Great you are</title>
+    </titles>
+    <verseOrder>v1 c1 v2 c1 v3 c1</verseOrder>
+    <authors>
+      <author>Oswald Sattler</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Du grosser Gott wenn ich die Welt betrachte,<br/>die du geschaffen durch dein allmacht Wort.<br/>Wenn ich auf alle jene Wesen achte,<br/>die du regierst und nährest fort und fort.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Und seh ich Jesus auf der Erde wandeln,<br/>in Knechtsgestalt voll Lieb und grosser Huld.<br/>Wenn ich im Geiste seh sein göttlich Handeln,<br/>am Kreuz bezahlen vieler Sünder Schuld.</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Dann jauchzt mein Herz dir grosser Herrscher zu,<br/>wie gross bist du, wie gross bist du.<br/>Dann jauchzt mein Herz dir grosser Herrscher zu,<br/>wie gross bist du, wie gross bist du.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Und auch den Geist vom Vater und vom Sohne,<br/>verehren wir und preisen seine Macht.<br/>Wenn er uns hebt bis zu des höchsten Throne,<br/>die Liebe uns hat zum Geschenk gemacht.</lines>
+    </verse>
+  </lyrics>
+</song>
