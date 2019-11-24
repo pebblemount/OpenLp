@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2019-11-24T10:18:27">
+  <properties>
+    <titles>
+      <title>Nee Ente Sarvavum Neeyenikkullavan</title>
+      <title>You are my everything you are my all (malayalam)</title>
+    </titles>
+    <copyright>Public Domain</copyright>
+    <verseOrder>v1 v1 c1</verseOrder>
+    <authors>
+      <author>Chikku Kuriakose</author>
+    </authors>
+  </properties>
+  <format>
+    <tags application="OpenLP">
+      <tag name="y">
+        <open>&lt;span style="-webkit-text-fill-color:yellow"&gt;</open>
+        <close>&lt;/span&gt;</close>
+      </tag>
+    </tags>
+  </format>
+  <lyrics>
+    <verse name="v1">
+      <lines break="optional"><br/>നീ എൻറെ  സർവവും<br/>നീ എനിക്കുള്ളവൻ<br/>നീ എൻറെ സർവവും എല്ലാറ്റിലും<br/><tag name="y">Nee ente sarvavum<br/>nee enikkullavan<br/>Nee ente sarvavum ellaattilum</tag></lines>
+      <lines>നിൻ ജീവൻ എൻ പേർക്കായ്‌<br/>തന്നതിനാൽ<br/>നീ എന്റെ സർവവും എല്ലാറ്റിലും<br/><tag name="y">Nin jeevan en perkaay thannathinaal<br/>Nee ente sarvavum ellaattilum</tag></lines>
+    </verse>
+    <verse name="c1">
+      <lines break="optional">തേനിലും മധുരമാം<br/>തേനിലും മധുരമാം<br/>യേശുക്രിസ്തു മാധുര്യവാൻ<br/><tag name="y">Thenilum madhuramaam<br/>Thenilum madhuramaam<br/>Yeshu kristhu maaduryavaan</tag></lines>
+      <lines>രുചിച്ചു നോക്കി ഞാൻ<br/>കർത്തൻ  കൃപകളെ<br/>യേശുക്രിസ്തു  മാധുര്യവാൻ<br/><tag name="y">Ruchichu nokki njaan karthan kripakale<br/>Yeshu kristhu maadhuryavaan<br/>Ruchichu nokki njaan karthan kripakale<br/>Yeshu kristhu maadhuryavaan</tag></lines>
+    </verse>
+  </lyrics>
+</song>
