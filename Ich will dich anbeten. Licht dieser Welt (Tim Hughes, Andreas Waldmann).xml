@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2019-11-24T10:48:15">
+  <properties>
+    <titles>
+      <title>Ich will dich anbeten. Licht dieser Welt</title>
+      <title>Light of the World</title>
+    </titles>
+    <copyright>© 2000 Thankyou Music   (Verwaltet von SCM Hänssler)</copyright>
+    <verseOrder>v1 v2 c1 e1</verseOrder>
+    <ccliNo>5292815</ccliNo>
+    <authors>
+      <author>Tim Hughes</author>
+      <author>Andreas Waldmann</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Licht dieser Welt Du strahlst in unserer Nacht auf<br/>Leuchtest den Weg läßt mich sehn<br/>Herr Deine Schönheit läßt mich anbeten<br/>Ewig werd' ich vor Dir stehn</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Herr aller Zeiten Du bist hoch erhaben<br/>Herrlich im Himmel erhöht<br/>Doch voller Demut kamst Du auf diese Erde<br/>Zeigst vorin Liebe besteht</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Ich will Dich anbeten<br/>Will mich vor Dir beugen<br/>Will Dir sagen Du nur bist mein Gott<br/>Denn Du allein bist herrlich<br/>Du allein bist würdig<br/>Du nur bist vollkommen gut zu mir</lines>
+    </verse>
+    <verse name="e1">
+      <lines>Herr nie begreife ich die Last,<br/>die Du am Kreuz getragen hast (3)</lines>
+    </verse>
+  </lyrics>
+</song>
