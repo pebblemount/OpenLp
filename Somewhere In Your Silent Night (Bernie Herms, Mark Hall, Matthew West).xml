@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2019-12-14T21:29:39">
+  <properties>
+    <titles>
+      <title>Somewhere In Your Silent Night</title>
+    </titles>
+    <copyright>My Refuge Music   (Admin. by Capitol CMG Publishing)Be Essential Songs   (Admin. by Essential Music Publishing LLC)Highly Combustible Music   (Admin. by One77 Songs c/o Kobalt Songs Music Publishing (ASCAP))House of Story Music Publishing   (Admin. by One77 Songs c/o Kobalt Songs Music Publishing (ASCAP))One77 Songs   (Admin. by One77 Songs c/o Kobalt Songs Music Publishing (ASCAP))Remaining portion is unaffiliated</copyright>
+    <verseOrder>v1 c1 v2 b1</verseOrder>
+    <ccliNo>7101254</ccliNo>
+    <authors>
+      <author>Matthew West</author>
+      <author>Mark Hall</author>
+      <author>Bernie Herms</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>All is calm and all is bright<br/>Everywhere but in your heart tonight<br/>They’re singing carols of joy and peace<br/>But you feel too far gone and too far out of reach</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Somewhere in your silent night<br/>Heaven hears the song your broken heart has cried<br/>Hope is here, just lift your head<br/>For love has come to find you<br/>Somewhere in your silent night</lines>
+    </verse>
+    <verse name="v2">
+      <lines>From heaven’s height to manger low<br/>There is no distance the Prince of Peace won’t go<br/>From manger low to Calvary’s hill<br/>When your pain runs deep, His love runs deeper still<br/>He has always loved you, child<br/>And He always will</lines>
+    </verse>
+    <verse name="b1">
+      <lines>Lift your head, Lift your heart<br/>Emmanuel will meet you where you are<br/>He knows your hurt, He knows your name<br/>And you’re the very reason that He came</lines>
+    </verse>
+  </lyrics>
+</song>
