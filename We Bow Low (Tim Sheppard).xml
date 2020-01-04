@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2020-01-04T12:36:17">
+  <properties>
+    <titles>
+      <title>We Bow Low</title>
+    </titles>
+    <copyright>©2015 Tim Sheppard Music</copyright>
+    <ccliNo>7068572</ccliNo>
+    <authors>
+      <author>Tim Sheppard</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>We bow low we bow low<br/>Faces down to the ground in Your presence Lord<br/>With our tears we wash Your feet<br/>We bow low we bow low falling on our knees<br/>We bow low we bow low<br/>To the King of Kings</lines>
+    </verse>
+    <verse name="b1">
+      <lines>Holy holy holy holy<br/>Holy holy<br/>Holy are You Lord forevermore</lines>
+    </verse>
+    <verse name="b2">
+      <lines>Holy holy holy holy<br/>Holy holy holy holy<br/>Holy are You Lord<br/>Holy holy are You Lord forevermore</lines>
+    </verse>
+  </lyrics>
+</song>

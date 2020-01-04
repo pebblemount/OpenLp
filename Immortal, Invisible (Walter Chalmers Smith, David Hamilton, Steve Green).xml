@@ -1,0 +1,34 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2020-01-04T13:06:00">
+  <properties>
+    <titles>
+      <title>Immortal, Invisible</title>
+    </titles>
+    <copyright>©2011 Gratia Music (ASCAP) Administered byThe Loving Company; Addy Tunes Music (ASCAP) (Administered by MS Bryan)</copyright>
+    <authors>
+      <author type="words">Walter Chalmers Smith</author>
+      <author type="music">David Hamilton</author>
+      <author type="words">Steve Green</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Immortal, invisible, God only wise<br/>In light, inaccessible hid from our eyes<br/>Most blessed most glorious, the Ancient of Days<br/>Almighty, victorious, Thy great name we praise</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Unresting, unhasting and silent as light<br/>Nor wanting, nor wasting Thou rulest in might<br/>Thy justice, like mountains, high soaring above<br/>Thy clouds, which are fountains of goodness and love</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Almighty victorious<br/>Your great name is glorious<br/>Almighty victorious<br/>Your great name we praise O Lord……</lines>
+    </verse>
+    <verse name="v4">
+      <lines>To all, life Thou givest, the great and the small<br/>To all life Thou livest, the true life of all<br/>We blossom and flourish as leaves on the tree<br/>And wither and perish, but naught changeth Thee</lines>
+    </verse>
+    <verse name="v5">
+      <lines>Great Father of glory, pure Father of light<br/>Thine angels adore Thee, all veiling their sight;<br/>All praise we would render- O help us to see<br/>‘Tis only the splendor of light hideth Thee!</lines>
+    </verse>
+    <verse name="c2">
+      <lines>Almighty, victorious<br/>Your great name is glorious<br/>Almighty, victorious<br/>Your great name is glorious<br/>Almighty, victorious<br/>Your great name we praise, O Lord……<br/><br/>Immortal, invisible, almighty, victorious<br/>Your great name, Your great name we praise</lines>
+    </verse>
+  </lyrics>
+</song>

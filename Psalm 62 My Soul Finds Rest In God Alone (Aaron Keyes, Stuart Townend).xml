@@ -1,0 +1,40 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2020-01-04T13:00:45">
+  <properties>
+    <titles>
+      <title>Psalm 62 My Soul Finds Rest In God Alone</title>
+    </titles>
+    <copyright>©2007 Thankyou Music   (Admin. by SCM Hänssler)</copyright>
+    <ccliNo>5040902</ccliNo>
+    <authors>
+      <author>Aaron Keyes</author>
+      <author>Stuart Townend</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>My soul finds rest in God alone, My Rock and my salvation,<br/>A fortress strong against my foes, And I will not be shaken.<br/>Though lips may bless and hearts may curse, And lies like arrows pierce me,<br/>I'll fix my heart on righteousness, I'll look to Him who hears me.</lines>
+    </verse>
+    <verse name="c1">
+      <lines>O praise Him, hallelujah, My Delight and my Reward;<br/>Everlasting, never failing, My Redeemer, my God.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Find rest, my soul, in God alone<br/>Amid the world's temptations;<br/>When evil seeks to take a hold<br/>I'll cling to my salvation.<br/>Though riches come and riches go,<br/>Don't set your heart upon them;<br/>The fields of hope in which I sow<br/>Are harvested in heaven.</lines>
+    </verse>
+    <verse name="c2">
+      <lines>O praise Him, hallelujah, My Delight and my Reward;<br/>Everlasting, never failing, My Redeemer, my God.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>I'll set my gaze on God alone,<br/>And trust in Him completely;<br/>With every day pour out my soul,<br/>And He will prove His mercy.<br/>Though life is but a fleeting breath,<br/>A sigh too brief to measure,<br/>My King has crushed the curse of death<br/>And I am His forever.</lines>
+    </verse>
+    <verse name="c3">
+      <lines>O praise Him, hallelujah, My Delight and my Reward;<br/>Everlasting, never failing, My Redeemer, my God. <br/>O praise Him, hallelujah, My Delight and my Reward;<br/>Everlasting, never failing, My Redeemer, my God.</lines>
+    </verse>
+    <verse name="c4">
+      <lines>O praise Him, O praise Him, hallelujah, hallelujah,<br/>O praise Him, O praise Him, hallelujah, hallelujah,<br/>O praise Him, O praise Him, hallelujah! hallelujah!</lines>
+    </verse>
+    <verse name="c5">
+      <lines>O praise Him, hallelujah, My Delight and my Reward;<br/>Everlasting, never failing, My Redeemer, my God.</lines>
+    </verse>
+  </lyrics>
+</song>
