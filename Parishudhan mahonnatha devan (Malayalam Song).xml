@@ -1,0 +1,41 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2020-01-12T12:38:11">
+  <properties>
+    <titles>
+      <title>Parishudhan mahonnatha devan</title>
+      <title>Ha ha ha hallelujah</title>
+    </titles>
+    <copyright>Public Domain</copyright>
+    <authors>
+      <author>Malayalam Song</author>
+    </authors>
+  </properties>
+  <format>
+    <tags application="OpenLP">
+      <tag name="y">
+        <open>&lt;span style="-webkit-text-fill-color:yellow"&gt;</open>
+        <close>&lt;/span&gt;</close>
+      </tag>
+    </tags>
+  </format>
+  <lyrics>
+    <verse name="v1">
+      <lines>Parishudhan mahonnatha devan<br/><tag name="y">(Holy and awesome God)</tag><br/>Paramengum vilangum maheshan<br/><tag name="y">(Ruler whose light radiates)</tag><br/>Swargeeya sainyangal vazhthy sthuthikkunna<br/><tag name="y">(The one who the armies of heaven praise)</tag><br/>Swarloka Nadhanam Mishiha<br/><tag name="y">(The King of Heaven - The Messiah)</tag></lines>
+    </verse>
+    <verse name="c1">
+      <lines>Ha ha ha hallelujah (4)<br/>Ha ha ha hallelujah (4)</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Avan athbhutha manthiyam Daivam<br/><tag name="y">(He is the wonderful counseler)</tag><br/>Nithya thathanum veeranam Daivam<br/><tag name="y">(Everlasting Father, Mighty God)</tag><br/>Unnatha devan neethiyin sooryan<br/><tag name="y">(God of Gods, the Light of Peace)</tag><br/>Rajadhi Raajanam Mishiha<br/><tag name="y">(King of Kings - The Messiah)</tag></lines>
+    </verse>
+    <verse name="c2">
+      <lines>Ha ha ha hallelujah (4)<br/>Ha ha ha hallelujah (4)</lines>
+    </verse>
+    <verse name="v3">
+      <lines>Koda kodi than dootha sainyavumay<br/><tag name="y">(With legions of angel armies)</tag><br/>Megha roodanay varunnitha viravil<br/><tag name="y">(He is comming soon in the clouds)</tag><br/>Than priya suthara thannodu cherppan<br/><tag name="y">(To join with his own people with himself)</tag><br/>Vegam varunneshu mishiha<br/><tag name="y">(He is the soon coming Jesus the Messiah)</tag></lines>
+    </verse>
+    <verse name="c3">
+      <lines>Ha ha ha hallelujah (4)<br/>Ha ha ha hallelujah (4)</lines>
+    </verse>
+  </lyrics>
+</song>

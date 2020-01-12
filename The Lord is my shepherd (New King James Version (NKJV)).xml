@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2020-01-12T13:07:39">
+  <properties>
+    <titles>
+      <title>The Lord is my shepherd</title>
+      <title>Psalm 23 NKJV</title>
+    </titles>
+    <copyright>Scripture taken from the New King James Version®. Copyright © 1982 by Thomas Nelson. Used by permission. All rights reserved.</copyright>
+    <authors>
+      <author>New King James Version (NKJV)</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>The Lord is my shepherd;<br/>I shall not want.<br/>He makes me to lie down in green pastures;<br/>He leads me beside the still waters.<br/>He restores my soul;<br/>He leads me in the paths of righteousness<br/>For His name’s sake.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Yea, though I walk through the valley of the shadow of death,<br/>I will fear no evil;<br/>For You are with me;<br/>Your rod and Your staff, they comfort me.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>You prepare a table before me in the presence of my enemies;<br/>You anoint my head with oil;<br/>My cup runs over.<br/>Surely goodness and mercy shall follow me<br/>All the days of my life;<br/>And I will dwell in the house of the Lord<br/>Forever.</lines>
+    </verse>
+  </lyrics>
+</song>

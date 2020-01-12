@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2020-01-12T13:04:42">
+  <properties>
+    <titles>
+      <title>Psalm 23</title>
+    </titles>
+    <copyright>Holy Bible, New International Version®, NIV® Copyright ©1973, 1978, 1984, 2011 by Biblica, Inc.®</copyright>
+    <authors>
+      <author>New International Version (NIV)</author>
+    </authors>
+    <themes>
+      <theme>Shepherd</theme>
+    </themes>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>The Lord is my shepherd, I lack nothing.<br/>He makes me lie down in green pastures,<br/>He leads me beside quiet waters,<br/>He refreshes my soul.<br/>He guides me along the right paths<br/>for his name’s sake.</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Even though I walk<br/>through the darkest valley,<br/>I will fear no evil,<br/>for you are with me;<br/>your rod and your staff,<br/>they comfort me.</lines>
+    </verse>
+    <verse name="v3">
+      <lines>You prepare a table before me<br/>in the presence of my enemies.<br/>You anoint my head with oil;<br/>my cup overflows.<br/>Surely your goodness and love will follow me<br/>all the days of my life,<br/>and I will dwell in the house of the Lord<br/>forever.</lines>
+    </verse>
+  </lyrics>
+</song>
