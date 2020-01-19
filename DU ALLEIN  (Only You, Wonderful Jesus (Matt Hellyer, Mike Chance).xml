@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2020-01-19T09:21:31">
+  <properties>
+    <titles>
+      <title>DU ALLEIN  (Only You, Wonderful Jesus</title>
+      <title>Du bist wunderbarWunderbar Jesus</title>
+    </titles>
+    <copyright>©2004 Kingdom Faith Church</copyright>
+    <authors>
+      <author>Matt Hellyer</author>
+      <author type="translation">Mike Chance</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="c1">
+      <lines>Du bist wunderbar<br/>Wunderbar Jesus<br/>Du bist wunderbar<br/>Wer kommt dir gleich?</lines>
+    </verse>
+    <verse name="v1">
+      <lines>Du allein bist so erstaunlich<br/>Nur dein Ruhm bleibt in Ewigkeit<br/>Du allein strahlst heller als die Sonne<br/>Und dein name ist voller Herrlichkeit</lines>
+    </verse>
+    <verse name="c2">
+      <lines>Du bist wunderbar<br/>Wunderbar Jesus<br/>Du bist wunderbar<br/>Wer kommt dir gleich?</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Du allein bist einzigartig<br/>Du allein bist unbeschreiblich schön<br/>Du allein bist ohne Gegenüber<br/>Du machst alles schön was du berührst</lines>
+    </verse>
+    <verse name="c3">
+      <lines>Du bist wunderbar<br/>Wunderbar Jesus<br/>Du bist wunderbar<br/>Wer kommt dir gleich? (x2)</lines>
+    </verse>
+  </lyrics>
+</song>
