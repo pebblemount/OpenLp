@@ -1,0 +1,34 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2020-01-25T13:43:32">
+  <properties>
+    <titles>
+      <title>Who You Are</title>
+      <title>I won't be satisfied</title>
+    </titles>
+    <copyright>2006 Integrity Worship Music   (Admin. by SCM Verlagsgruppe GmbH)</copyright>
+    <ccliNo>4771014</ccliNo>
+    <authors>
+      <author>Jon Egan</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="c1">
+      <lines>I won't be satisfied<br/>I won't be found alright til I find<br/>Who You are<br/>I'd climb every mountain<br/>I'd travel the deepest valley<br/>To find who You are</lines>
+    </verse>
+    <verse name="v1">
+      <lines>You, You cause the lame to walk<br/>You open lips to talk<br/>You're everything and that<br/>Is who You are<br/>You, You calm the storms at night<br/>You turn the dark to light<br/>You're everything and that<br/>Is who You are</lines>
+    </verse>
+    <verse name="c2">
+      <lines>I won't be satisfied<br/>I won't be found alright til I find<br/>Who You are<br/>I'd climb every mountain<br/>I'd travel the deepest valley<br/>To find who You are</lines>
+    </verse>
+    <verse name="c3">
+      <lines>That is who You are</lines>
+    </verse>
+    <verse name="c4">
+      <lines>My savior<br/>My healer<br/>Redeemer<br/>That is who You are<br/>Creator<br/>My maker<br/>My father</lines>
+    </verse>
+    <verse name="c5">
+      <lines>That is who You are [x6]<br/><br/>That is who You are</lines>
+    </verse>
+  </lyrics>
+</song>
