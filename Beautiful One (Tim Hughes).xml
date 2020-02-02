@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2020-02-02T09:13:56">
+  <properties>
+    <titles>
+      <title>Beautiful One</title>
+      <title>Wonderful so wonderful</title>
+    </titles>
+    <copyright>2002 Thankyou Music   (Admin. by SCM Hänssler)</copyright>
+    <ccliNo>3915912</ccliNo>
+    <authors>
+      <author>Tim Hughes</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Wonderful, so wonderful is Your unfailing love<br/>Your cross has spoken mercy over me <br/>No eye has seen, no ear has heard<br/>no heart could fully know<br/>how glorious, how beautiful You are</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Beautiful One I love, beautiful One I adore<br/>beautiful One my soul must sing</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Powerful, so powerful, Your glory fills the skies<br/>Your mighty works displayed for all to see<br/>The beauty of Your majesty<br/>awakes my heart to sing<br/>How marvelous, how wonderful You are</lines>
+    </verse>
+    <verse name="b1">
+      <lines>You opened my eyes to Your wonders anew <br/>You captured my heart with this love <br/>'cause nothing on earth is as beautiful as You</lines>
+    </verse>
+    <verse name="e1">
+      <lines>My soul, my soul must sing<br/>My soul, my soul must sing<br/>My soul, my soul must sing<br/>Beautiful One</lines>
+    </verse>
+  </lyrics>
+</song>

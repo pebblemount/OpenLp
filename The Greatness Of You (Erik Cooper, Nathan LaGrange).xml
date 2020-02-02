@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2020-02-02T09:20:28">
+  <properties>
+    <titles>
+      <title>The Greatness Of You</title>
+      <title>Jesus we lift up Your name</title>
+    </titles>
+    <copyright>2004 Integrity's Hosanna! Music   (Admin. by SCM Verlagsgruppe GmbH)Lakeview Media   (Admin. by SCM Verlagsgruppe GmbH)</copyright>
+    <ccliNo>4592231</ccliNo>
+    <authors>
+      <author>Erik Cooper</author>
+      <author>Nathan LaGrange</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Wanna sing of Your love,    I wanna sing of Your mercy<br/>I wanna tell the whole world of the greatness of You<br/>So I'll sing of Your love   and I'll sing of Your mercy<br/>And I'll tell the whole world of the greatness of You<br/>Of the greatness of You</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Jesus, we lift up Your Name<br/>Jesus, we lift up Your Name<br/>Jesus, we lift up Your Name<br/>Jesus, we lift up Your Name<br/>We lift up Your Name <br/>We lift up Your Name<br/>We lift up Your Name</lines>
+    </verse>
+    <verse name="v2">
+      <lines>I wanna sing of Your love  I wanna sing of Your love <br/>Wanna sing of Your mercy  I wanna sing of Your mercy <br/>I wanna tell the whole world  I wanna tell the whole world <br/>Of the greatness of You  of the greatness of You <br/>So I'll sing of Your love  so I'll sing of Your love <br/>And I'll sing of Your mercy  and I'll sing of Your mercy <br/>And I'll tell the whole world  and I'll tell the whole world <br/>Of the greatness of You  of the greatness of You </lines>
+    </verse>
+    <verse name="c2">
+      <lines>Jesus, we lift up Your Name<br/>Jesus, we lift up Your Name<br/>Jesus, we lift up Your Name   <br/> Jesus, we lift up Your Name<br/>Lord, we've come to lift You up <br/>Give You praise and lift You up<br/>Everything we lift you up</lines>
+    </verse>
+    <verse name="b1">
+      <lines>Your Name is higher than the heavens<br/>Greater than the nations, Jesus<br/>Your Name is higher than the heavens<br/>Greater than the nations, Jesus<br/>Your Name is higher than the heavens<br/>Greater than the nations, Jesus</lines>
+    </verse>
+  </lyrics>
+</song>

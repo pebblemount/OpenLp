@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2020-02-02T09:04:41">
+  <properties>
+    <titles>
+      <title>This Is Your House</title>
+      <title>As we gather in this Place today</title>
+    </titles>
+    <copyright>2004 Juniper Landing Music   (Admin. by CopyCare Deutschland)Integrity's Hosanna! Music   (Admin. by SCM Verlagsgruppe GmbH)</copyright>
+    <ccliNo>4220802</ccliNo>
+    <authors>
+      <author>Claire Cloninger</author>
+      <author>Don Moen</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>As we gather in this place today<br/>Holy Spirit come and have Your way, Have Your way<br/>As we lay aside our own desires<br/>Sweep across our hearts with holy fire, Have Your way</lines>
+    </verse>
+    <verse name="c1">
+      <lines>This is Your house, Your home, We welcome You, Lord, we welcome You<br/>This is Your house, Your home <br/>We welcome You today<br/>We welcome You today, We welcome You today<br/>We welcome You today</lines>
+    </verse>
+    <verse name="v2">
+      <lines>As we offer up our hearts and lives<br/>Let them be a living sacrifice, Have Your way<br/>Be glorified in everything we do<br/>Be glorified in everything we say, Have Your way</lines>
+    </verse>
+    <verse name="b1">
+      <lines>As we   pray, O Lord, draw   near<br/>It's Your voice we long to     hear</lines>
+    </verse>
+  </lyrics>
+</song>
