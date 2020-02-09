@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2020-02-09T12:33:13">
+  <properties>
+    <titles>
+      <title>Du bist der Höchste</title>
+      <title>Ich Erhebe Dich, I exalt you</title>
+    </titles>
+    <copyright>©1977 Sanchez, Pete, Jr.   (Verwaltet von Gabriel Music, Inc.)</copyright>
+    <ccliNo>5829635</ccliNo>
+    <authors>
+      <author type="words">Gitta Leuschner</author>
+      <author type="music">Pete Sanchez Jr.</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Du bist der Höchste, o Herr<br/>über allen Erden.<br/>Du bist erhoben<br/>über alle Götter.</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Ich erhebe dich.<br/>Ich erhebe Dich.<br/>Ich erhebe Dich,<br/>o Herr!</lines>
+    </verse>
+  </lyrics>
+</song>
