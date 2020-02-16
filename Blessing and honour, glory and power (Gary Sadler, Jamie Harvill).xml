@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2020-02-16T13:34:01">
+  <properties>
+    <titles>
+      <title>Blessing and honour, glory and power</title>
+      <title>Ancient of days</title>
+    </titles>
+    <copyright>©1992 Integrity's Hosanna! Music   (Admin. by SCM Verlagsgruppe GmbH)</copyright>
+    <ccliNo>798108</ccliNo>
+    <authors>
+      <author>Gary Sadler</author>
+      <author>Jamie Harvill</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Blessing and honour, glory and power<br/>Be unto the Ancient of Days<br/>From every nation, all of creation<br/>Bow before the Ancient of Days</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Every tongue in heaven and earth<br/>Shall declare Your glory<br/>Every knee shall bow at Your throne<br/>In worship<br/>You will be exalted, O God<br/>And Your kingdom shall not pass away<br/>O Ancient of Days</lines>
+    </verse>
+    <verse name="e1">
+      <lines>Your kingdom shall reign over all the earth<br/>Sing unto the Ancient of Days<br/>For none shall compare to Your matchless worth<br/>Sing unto the Ancient of Days</lines>
+    </verse>
+  </lyrics>
+</song>

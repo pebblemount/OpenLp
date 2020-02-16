@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2020-02-16T13:29:09">
+  <properties>
+    <titles>
+      <title>Lord I Lift Your Name On High</title>
+      <title>You came from heaven</title>
+    </titles>
+    <copyright>©1989 Universal Music - Brentwood Benson Publishing   (Admin. by Brentwood-Benson Music Publishing, Inc.)</copyright>
+    <ccliNo>117947</ccliNo>
+    <authors>
+      <author>Rick Founds</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Lord I Lift Your Name On High<br/>Lord I Love To Sing Your Praises<br/>I’m So Glad Your In My Life<br/>I’m So Glad You Came To Save Us</lines>
+    </verse>
+    <verse name="c1">
+      <lines>You Came From Heaven To Earth<br/>To Show The Way<br/>From The Earth To The Cross<br/>My Debt To Pay<br/>From The Cross To The Grave<br/>From The Grave To The Sky<br/>Lord I Lift Your Name On High</lines>
+    </verse>
+  </lyrics>
+</song>

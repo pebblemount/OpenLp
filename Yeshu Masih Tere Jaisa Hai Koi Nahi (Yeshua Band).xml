@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2020-02-16T12:20:54">
+  <properties>
+    <titles>
+      <title>Yeshu Masih Tere Jaisa Hai Koi Nahi</title>
+    </titles>
+    <copyright>©Yeshua Band : Public Domain to Worship</copyright>
+    <authors>
+      <author>Yeshua Band</author>
+    </authors>
+  </properties>
+  <format>
+    <tags application="OpenLP">
+      <tag name="o">
+        <open>&lt;span style="-webkit-text-fill-color:#FFA500"&gt;</open>
+        <close>&lt;/span&gt;</close>
+      </tag>
+      <tag name="y">
+        <open>&lt;span style="-webkit-text-fill-color:yellow"&gt;</open>
+        <close>&lt;/span&gt;</close>
+      </tag>
+    </tags>
+  </format>
+  <lyrics>
+    <verse name="v1">
+      <lines>Yeshu Masih Tere Jaisa Hai Koi Nahi<br/><tag name="o">यीशु मसीह तेरे जैसा है कोई नहीं</tag><br/><tag name="y">Jesus Christ,There is no one like you</tag><br/><br/>Tere Charnon Mein Jhuke Aasman<br/><tag name="o">तेरे चनों में झुके आसमान </tag><br/><tag name="y">In your words, the sky bow down</tag><br/><br/>Aur Mahima Gaye Sabhi<br/><tag name="o">और महिमा गाये सभी </tag><br/><tag name="y">All all creations praise you</tag></lines>
+    </verse>
+    <verse name="c1">
+      <lines>Ham Gaye Hosanna<br/><tag name="o">हम गाये होसन्ना </tag><br/><tag name="y">We sing Hossana</tag><br/><br/>Tu Rajaon Ka Hai Raja<br/><tag name="o">तू राजाओं का है राजा</tag><br/><tag name="y">You are the King of Kings</tag><br/><br/>Teri Mahima Howe Sada<br/><tag name="o">तेरी महिमा होवे सदा</tag><br/><tag name="y">Let your Glory be forever</tag><br/><br/>Tu Hai Prabhu Hamara Khuda<br/><tag name="o">तू है प्रभु हमारा खुदा</tag><br/><tag name="y">You are Lord, our God</tag></lines>
+    </verse>
+    <verse name="v2">
+      <lines>Pyaare Pita Tune Hamse Kitna Pyaar Kiya<br/><tag name="o">प्यारे पिता तूने हमसे कितना प्यार किया</tag><br/><tag name="y">Dear Father, how much love do you have for us!</tag><br/><br/>Hame Papon Se Chudaane Ko<br/><tag name="o">हमें पापों से छुड़ाने को </tag><br/><tag name="y">To rescue us from our sins</tag><br/><br/>Apne Bete Ko Kurbaan Kiya<br/><tag name="o">अपने बेटे को कुर्बान किया </tag><br/><tag name="y">You gave your son as a sacrifice</tag></lines>
+    </verse>
+  </lyrics>
+</song>
