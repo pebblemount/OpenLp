@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2020-02-23T11:15:05">
+  <properties>
+    <titles>
+      <title>GOTT UND KÖNIG</title>
+      <title>Majestät</title>
+    </titles>
+    <copyright>© 2012 Outbreakband Musik (Verwaltet von Gerth Medien Musikverlag)</copyright>
+    <ccliNo>6352761</ccliNo>
+    <authors>
+      <author>Mia Friesen</author>
+      <author>Stefan Schöpfle</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Du bist gnädig, Du bist treu<br/>Du bist voller Freundlichkeit<br/>Deine Liebe fließt<br/>Aus den Strömen Deiner Güte zu uns</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Du bist heilig und gerecht<br/>Voller Sanftmut und Geduld<br/>Tiefer Friede liegt<br/>In dem Schatten Deiner Flügel für uns</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Majestät<br/>Du thronst in Herrlichkeit<br/>Deine Güte währet ewig<br/>Wir verehren Dich<br/>Denn niemand kommt Dir gleich<br/>Du bist unser Gott und König</lines>
+    </verse>
+    <verse name="e1">
+      <lines>Wir erheben Deinen Namen, Herr<br/>Dir sei Ehre, Ruhm und Macht</lines>
+    </verse>
+  </lyrics>
+</song>

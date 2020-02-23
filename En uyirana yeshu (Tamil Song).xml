@@ -1,0 +1,34 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2020-02-23T11:28:40">
+  <properties>
+    <titles>
+      <title>En uyirana yeshu</title>
+    </titles>
+    <authors>
+      <author>Tamil Song</author>
+    </authors>
+  </properties>
+  <format>
+    <tags application="OpenLP">
+      <tag name="y">
+        <open>&lt;span style="-webkit-text-fill-color:yellow"&gt;</open>
+        <close>&lt;/span&gt;</close>
+      </tag>
+      <tag name="bl">
+        <open>&lt;span style="-webkit-text-fill-color:blue"&gt;</open>
+        <close>&lt;/span&gt;</close>
+      </tag>
+    </tags>
+  </format>
+  <lyrics>
+    <verse name="c1">
+      <lines><tag name="y">എൻ ഉയിരാനെ ഉയിരാനെ ഉയിരാനെ യേശു<br/>എൻ ഉയിരാനെ ഉയിരാനെ ഉയിരാനെ യേശു<br/>എൻ ഉയിരാനെ യേശു എൻ ഉയിരോട് കലന്തു <br/>എൻ ഉയിരേ നാൻ ഉമ്മെയ് തുദിപേൻ </tag><br/>என் உயிரான உயிரான உயிரான இயேசு<br/>என் உயிரான உயிரான உயிரான இயேசு<br/>என் உயிரான இயேசு என் உயிரோடு கலந்தீர்<br/>என் உயிரே நான் உம்மைத் துதிப்பேன்<br/><tag name="bl">En uyiranae uyiranae uyiranae yesu<br/>En uyiranae uyiranae uyiranae yesu<br/>En uyirana yesu en uyiodu kalandhu<br/>en uiyurae naan umami thudhipaen</tag></lines>
+    </verse>
+    <verse name="v1">
+      <lines><tag name="y">ഉലകം എല്ലാം മറക്കുതു അയ്യാ <br/>ഉണർവ് എല്ലാം ഇനിക്കുദു അയ്യാ <br/>ഉൻ നാമം തുദിക്കിയെലെ യേശയ്യാ <br/>ഉൻ അൻപേ റുസിക്കിയെലേ</tag><br/>உலகமெல்லாம் மறக்குதையா!<br/>உணர்வு எல்லாம் இனிக்குதையா<br/>உம் நாமம் துதிக்கையிலே இயேசையா<br/>உம் அன்பை ருசிக்கையிலே<br/><tag name="bl">Ullagam ellam marakudhu aiyaa<br/>unarvue ellam inikudhu aiyaa<br/>un naammam thudhiki yelae yesu aiya<br/>un anbae rusiki yelae</tag></lines>
+    </verse>
+    <verse name="v2">
+      <lines><tag name="y">ഉം വസനം എനക്ക് ഉണവാകും <br/>ഉടലക്കു എല്ലാം മരന്ദ് ആകും <br/>ഇരവും പകലും അയ്യാ <br/>ഉന്താൻ വസനം ധ്യാനിക്കരേ</tag><br/>உம் வசனம் எனக்கு உணவாகும்<br/>உடலுக்கெல்லாம் மருந்தாகும்<br/>இரவும் பகலுமையா!<br/>உம் வசனம் தியானிக்கிறேன்<br/><tag name="bl">Um vasanam ennaku unave aagam<br/>Uddalaku ellam marandu aagam<br/>Irravum pagalam aiya<br/>undhan vasanal dhya nikirae</tag></lines>
+    </verse>
+  </lyrics>
+</song>
