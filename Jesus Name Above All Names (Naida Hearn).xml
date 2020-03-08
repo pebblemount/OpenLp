@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2020-03-08T08:49:54">
+  <properties>
+    <titles>
+      <title>Jesus Name Above All Names</title>
+    </titles>
+    <copyright>©1974, 1978 Universal Music - Brentwood Benson Publishing   (Admin. by Brentwood-Benson Music Publishing, Inc.)</copyright>
+    <ccliNo>21291</ccliNo>
+    <authors>
+      <author>Naida Hearn</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Jesus name above all names<br/>Beautiful Savior glorious Lord<br/>Emmanuel God is with us<br/>Blessed Redeemer living Word</lines>
+    </verse>
+    <verse name="v2">
+      <lines>Jesus loving Shepherd<br/>Vine of the branches Son of God<br/>Prince of Peace Wonderful Counselor<br/>Lord of the universe Light of the world</lines>
+    </verse>
+  </lyrics>
+</song>

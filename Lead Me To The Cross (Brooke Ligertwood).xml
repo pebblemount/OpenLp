@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<song xmlns="http://openlyrics.info/namespace/2009/song" version="0.8" createdIn="OpenLP 2.4.6" modifiedIn="OpenLP 2.4.6" modifiedDate="2020-03-08T08:10:21">
+  <properties>
+    <titles>
+      <title>Lead Me To The Cross</title>
+      <title>Saviour I come</title>
+    </titles>
+    <copyright>©2006 Hillsong Music Publishing Australia   (Admin. by Universal Music Publishing Ltd)</copyright>
+    <ccliNo>4785828</ccliNo>
+    <authors>
+      <author>Brooke Ligertwood</author>
+    </authors>
+  </properties>
+  <lyrics>
+    <verse name="v1">
+      <lines>Savior I come quiet my soul <br/>Remember<br/>Redemption's hill<br/>Where Your blood was spilled<br/>For my ransom</lines>
+    </verse>
+    <verse name="p1">
+      <lines>Everything I once held dear<br/>I count it all as loss</lines>
+    </verse>
+    <verse name="c1">
+      <lines>Lead me to the cross<br/>Where Your love poured out<br/>Bring me to my knees<br/>Lord I lay me down<br/>Rid me of myself<br/>I belong to You<br/>Oh lead me lead me to the cross</lines>
+    </verse>
+    <verse name="v2">
+      <lines>You were as I<br/>Tempted and tried human<br/>The word became flesh<br/>Bore my sin and death<br/>Now You're risen</lines>
+    </verse>
+    <verse name="b1">
+      <lines>To Your heart     <br/>To Your heart     <br/>Lead me to Your heart      <br/>Lead me to Your heart      </lines>
+    </verse>
+  </lyrics>
+</song>
